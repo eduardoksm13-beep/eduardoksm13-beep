@@ -1,16 +1,18 @@
-## Hi there 👋
+## Eduardo Melo
+🔧 Desenvolvimento backend
+## 🛠️Tecnologias
+<div> 
+  <img src="https://skillicons.dev/icons?i=java,python," />                  
+</div>
 
-<!--
-**eduardoksm13-beep/eduardoksm13-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##🖥️ Ferramentas e Plataformas
+<div>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,windows" />                  
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  
+
+
+
